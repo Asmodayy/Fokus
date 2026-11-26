@@ -1,0 +1,5 @@
+build/
+Payload/
+*.ipa
+Fokus.xcodeproj/
+Fokus/Info.plist
